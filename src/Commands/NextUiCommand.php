@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Paramientos\NextUi\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class NextUiCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'nextui';
 
     public $description = 'My command';
 
